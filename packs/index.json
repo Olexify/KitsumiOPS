@@ -1,0 +1,23 @@
+{
+  "note": "Kitsumi Advanced scanning word packs - see README.md. CC BY-SA 4.0.",
+  "packs": {
+    "ja": {
+      "v": 1,
+      "file": "scan-ja-1.tsv.gz",
+      "sha256": "5f8cecab6db402a5da2ef4f1efd3a1d314842a19ba87dc9ffd5da988d12ee06e",
+      "gz": 2046962,
+      "forms": 445402,
+      "date": "2026-09-26",
+      "source": "JMdict (EDRDG), CC BY-SA 4.0"
+    },
+    "zh": {
+      "v": 1,
+      "file": "scan-zh-1.tsv.gz",
+      "sha256": "1eea8b8b0f3493804e7466e079498c161544b73800692a4c2bda089821fdbb72",
+      "gz": 785660,
+      "forms": 197809,
+      "date": "2026-09-26",
+      "source": "CC-CEDICT (MDBG), CC BY-SA 4.0"
+    }
+  }
+}
